@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { FiPlay, FiGithub } from 'react-icons/fi';
+import { FiPlay } from 'react-icons/fi';
 
 export default function ProjectCard({
   title,

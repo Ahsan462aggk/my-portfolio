@@ -63,7 +63,7 @@ export default function Contact() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8 }}
               >
-                Let's Connect
+                Lets Connect
               </motion.h1>
               <motion.p
                 className="text-xl text-slate-300 max-w-2xl mx-auto"
